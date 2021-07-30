@@ -1,0 +1,48 @@
+Detector initialized: <KAZE 0000026DF5A5CBF0>
+
+Descriptor initialized: <KAZE 0000026DF5A5CC10>
+
+Dimensionality Reduction algorithm initialized: DL
+
+Number of Image Samples: 9
+
+Extracting Features...
+
+Processing the subdirectory named: Samples 	[ 1 / 1 ] 
+
+Extracted KAZE 
+
+Time: 00:00:02 
+
+Descriptor's Size: 64
+
+Descriptor's Type: 5
+
+Default Norm Type: 4
+
+Creating Feature Vectors...
+
+Time: 00:00:00 
+
+Dimensioning...
+
+Time: 00:00:00 
+
+Creating session and running TensorFlow...
+
+Time: 00:00:00 
+
+Saving Input Samples...
+
+Time: 00:00:00 
+
+Saving Weights Samples...
+
+Time: 00:00:00 
+
+Saving Feature Maps Samples...
+
+Time: 00:00:03 
+
+Reformulation of Convolutional Filters through descriptor executed with success!
+

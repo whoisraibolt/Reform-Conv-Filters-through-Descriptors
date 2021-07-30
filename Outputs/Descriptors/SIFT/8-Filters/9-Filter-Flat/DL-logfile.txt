@@ -1,0 +1,48 @@
+Detector initialized: <xfeatures2d_SIFT 0000023C6B44DC30>
+
+Descriptor initialized: <xfeatures2d_SIFT 0000023C6B44DC50>
+
+Dimensionality Reduction algorithm initialized: DL
+
+Number of Image Samples: 9
+
+Extracting Features...
+
+Processing the subdirectory named: Samples 	[ 1 / 1 ] 
+
+Extracted SIFT 
+
+Time: 00:00:00 
+
+Descriptor's Size: 128
+
+Descriptor's Type: 5
+
+Default Norm Type: 4
+
+Creating Feature Vectors...
+
+Time: 00:00:00 
+
+Dimensioning...
+
+Time: 00:00:00 
+
+Creating session and running TensorFlow...
+
+Time: 00:00:00 
+
+Saving Input Samples...
+
+Time: 00:00:00 
+
+Saving Weights Samples...
+
+Time: 00:00:00 
+
+Saving Feature Maps Samples...
+
+Time: 00:00:03 
+
+Reformulation of Convolutional Filters through descriptor executed with success!
+

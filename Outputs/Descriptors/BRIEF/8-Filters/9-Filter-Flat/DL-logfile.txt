@@ -1,0 +1,48 @@
+Detector initialized: <BRISK 00000287C4BFCFB0>
+
+Descriptor initialized: <xfeatures2d_BriefDescriptorExtractor 00000287C4BFCFD0>
+
+Dimensionality Reduction algorithm initialized: DL
+
+Number of Image Samples: 9
+
+Extracting Features...
+
+Processing the subdirectory named: Samples 	[ 1 / 1 ] 
+
+Extracted BRIEF 
+
+Time: 00:00:00 
+
+Descriptor's Size: 16
+
+Descriptor's Type: 0
+
+Default Norm Type: 6
+
+Creating Feature Vectors...
+
+Time: 00:00:00 
+
+Dimensioning...
+
+Time: 00:00:01 
+
+Creating session and running TensorFlow...
+
+Time: 00:00:00 
+
+Saving Input Samples...
+
+Time: 00:00:00 
+
+Saving Weights Samples...
+
+Time: 00:00:00 
+
+Saving Feature Maps Samples...
+
+Time: 00:00:03 
+
+Reformulation of Convolutional Filters through descriptor executed with success!
+
